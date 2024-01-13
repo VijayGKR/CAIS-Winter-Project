@@ -1,7 +1,7 @@
 Vijay Kumaravelrajan vkumarav@usc.edu
 
 In one or two sentences, present your project to us:
-Using transfer learning, I train BERTforSequenceClassification on the News Headlines for Sarcasm Detection Dataset to classify sarcastic and non-sarcastic news headlines from The Onion and Huffington Post, respectively.
+I train BERTforSequenceClassification on the News Headlines for Sarcasm Detection Dataset to classify sarcastic and non-sarcastic news headlines from The Onion and Huffington Post, respectively.
 
 Dataset: Indicate the dataset you chose to use, any preprocessing steps that were applied, as well as the reasoning behind these choices:
 
