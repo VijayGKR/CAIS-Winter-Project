@@ -1,4 +1,4 @@
-# The code below is an adapted and modified verison of the Transfer Learning Notebook provided in the Curriculum
+# The code below is an adapted and modified verison of the [L4] Intro to Natural Language Processing: Fine-Tuning BERT notebook provided in the Curriculum
 # Changes were made in order to preprocess the dataset, as well as to the model training and evluation
 #  -*- coding: utf-8 -*-
 """Winter Project
